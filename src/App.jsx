@@ -9,6 +9,7 @@ import Gallery from './components/Gallery';
 import BrandBanner from './components/BrandBanner';
 import WhyUs from './components/WhyUs';
 import Footer from './components/Footer';
+import AiGenerator from './components/AiGenerator';
 import ContactModal from './components/ContactModal';
 
 function App() {
